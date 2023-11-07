@@ -31,7 +31,7 @@ This project creates a machine learning model to predict how legacy customers of
 
 <h2>Plans for updates</h2>
 
-I need to change the heading on the sanity check section.
+Change the heading on the sanity check section using HTML headers to be clear and concise about what the section accomplishes.
 
 <h2>Sample Model Predictions</h2>
 
