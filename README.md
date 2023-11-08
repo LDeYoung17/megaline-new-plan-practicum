@@ -36,3 +36,10 @@ Change the heading on the sanity check section using HTML headers to be clear an
 <h2>Sample Model Predictions</h2>
 
 ![megaline_ml_sample](https://github.com/LDeYoung17/megaline-new-plan-practicum/assets/70500225/3f1d973e-1530-461e-bed1-adaf284db85f)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
