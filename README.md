@@ -22,8 +22,6 @@ This project creates a machine learning model to predict how legacy customers of
 
 <h2>Local Access</h2>
 
-<h2>Local Access</h2>
-
 This project will require Python 3.9.13 or later.
 
 All packages required can be installed from the requirements.txt file by executing the command 'pip install -r requirements.txt'
