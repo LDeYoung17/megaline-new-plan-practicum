@@ -38,6 +38,10 @@ Change the heading on the sanity check section using HTML headers to be clear an
 
 ![megaline_ml_sample](https://github.com/LDeYoung17/megaline-new-plan-practicum/assets/70500225/3f1d973e-1530-461e-bed1-adaf284db85f)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1JZERe3ml-gzVew4IGUUv6lxN8CRNXNJ_/view?usp=sharing
+
 
 <h2>Portfolio Link</h2>
 
